@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duygu39
 - 👀 I’m interested in Medizin
 - 🌱 I’m currently learning Medizin
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Ich würde gerneit anderen zusammen Arbeiem
 
 
 <!---
